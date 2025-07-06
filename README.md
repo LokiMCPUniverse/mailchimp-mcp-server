@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lokimcpuniverse-mailchimp-mcp-server-badge.png)](https://mseep.ai/app/lokimcpuniverse-mailchimp-mcp-server)
+
 # Mailchimp MCP Server
 
 <div align="center">
